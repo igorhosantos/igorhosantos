@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on http://pipastudios.com
-- Experienced Software Engineer with a demonstrated history of working in the computer games industry for the past 9 years, building solutions and client/server integration. Skilled in Unity, C#, Java, ActionScript and JavaScript. 
+- :computer: Experienced Software Engineer with a demonstrated history of working in the computer games industry for the past 9 years, building solutions and client/server integration. Skilled in Unity, C#, Java, ActionScript and JavaScript. 
 - 📫 How to reach me: igor.hos@gmail.com
 
 <!--
