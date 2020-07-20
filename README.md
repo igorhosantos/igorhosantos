@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at http://pipastudios.com as a software/game engineer 
+- 🔭 I’m currently working at http://pipastudios.com as a Software/Game Engineer 
 - :computer: Experienced Software Engineer with a demonstrated history of working in the computer games industry for the past 9 years, building solutions and client/server integration. Skilled in Unity, C#, Java, ActionScript and JavaScript.
 - :book: Studying Big Data (Post Graduation Degree) and learning Backend Features   
 - 📫 How to reach me: igor.hos@gmail.com
