@@ -3,11 +3,12 @@
 
 - 🔭 I’m currently working at [Genies](https://genies.com/) as a Senior Unity Engineer 
 - :computer: Experienced Game and Software Engineer with a demonstrated history of working in the computer games industry for the past 12 years, building solutions and client/server integration. Skilled in Unity, C#, Java, ActionScript and JavaScript.
-- :book: Graduated in Games Development, Postgraduate in Big Data
+- :book: Graduated in Games Development
+- :book: Postgraduated in Big Data
 - 📫 How to reach me: igor.hos@gmail.com
 
 <!--
-**Hsantos/Hsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**igorhosantos/igorhosantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
