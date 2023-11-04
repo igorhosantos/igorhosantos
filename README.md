@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: igor.hos@gmail.com
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=igorhosantos&&show_icons=true" />
+<!--<img src="https://github-readme-stats.vercel.app/api?username=igorhosantos&&show_icons=true" />-->
