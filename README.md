@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at [Genies](https://genies.com/) as a Senior Unity Engineer 
-- :computer: Experienced Game and Software Engineer with a demonstrated history of working in the computer games industry for the past 12 years, building solutions and client/server integration. Skilled in Unity, C#, Java, ActionScript and JavaScript.
+- :computer: Experienced Game and Software Engineer with a demonstrated history of working in the computer games industry for the past 13 years, building solutions and client/server integration. Skilled in Unity, C#, Java, ActionScript and JavaScript.
 - :book: Graduated in Games Development
 - :book: Postgraduated in Big Data
 - 📫 How to reach me: igor.hos@gmail.com
