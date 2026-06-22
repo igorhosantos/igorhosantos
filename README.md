@@ -3,17 +3,16 @@
 
 - 🔭 I’m currently working at [Genies](https://genies.com/) as a Senior Unity Engineer 
 - :computer: I'm a Senior Unity Engineer and Mobile Game Developer with 13+ years of experience building interactive apps, games, and internal tools across PC, Android, and iOS. Deep expertise in Unity, C#, and Java, with a strong track record in mobile architecture, client/server integration, custom tooling, shaders, UI development, testing, and CI-driven delivery. Known for bridging product and engineering needs, mentoring teammates, and turning ideas into polished, scalable features with strong performance and user impact.
+  
+- LinkedIn: https://www.linkedin.com/in/igorhenriquesantos
+- Projects shipped that I have credit as an engineer:
 
-LinkedIn: https://www.linkedin.com/in/igorhenriquesantos
-
-Projects shipped that I have credit as an engineer:
-
-Genies AI Companion: https://apps.apple.com/us/app/genies/id6468962977
-Genies Avatar SDK: https://assetstore.unity.com/packages/tools/game-toolkits/genies-avatar-sdk-336166?srsltid=AfmBOoo7L7tsqAoDDD5yOyEbfrtTdN2U_6N8mgzg-qyur27ltxNOIhwI
-Genies Camera: https://apps.apple.com/us/app/genies-camera/id6480532620
-PlayKids App: https://apps.apple.com/us/app/playkids-learning-video-games/id613398383
-PlayKids Coloring: https://apps.apple.com/us/app/coloring-book-by-playkids/id1629717254
-Praia Bingo: https://apps.apple.com/us/app/praia-bingo-bingo-online/id722428252
+  - Genies AI Companion: https://apps.apple.com/us/app/genies/id6468962977
+  - Genies Avatar SDK: https://assetstore.unity.com/packages/tools/game-toolkits/genies-avatar-sdk-336166?srsltid=AfmBOoo7L7tsqAoDDD5yOyEbfrtTdN2U_6N8mgzg-qyur27ltxNOIhwI
+  - Genies Camera: https://apps.apple.com/us/app/genies-camera/id6480532620
+  - PlayKids App: https://apps.apple.com/us/app/playkids-learning-video-games/id613398383
+  - PlayKids Coloring: https://apps.apple.com/us/app/coloring-book-by-playkids/id1629717254
+  - Praia Bingo: https://apps.apple.com/us/app/praia-bingo-bingo-online/id722428252
 
 - 📫 How to reach me: igor.hos@gmail.com
 
