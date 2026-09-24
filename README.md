@@ -3,7 +3,7 @@
 
 <!--- 🔭 I’m currently working at [Genies](https://genies.com/) as a Senior Unity Engineer -->
 
-- :computer: Hi, I'm Igor, a Senior Unity Engineer and Mobile Game Developer with 13+ years of experience building interactive apps, games, and internal tools across PC, Android, and iOS. Deep expertise in Unity, C#, and Java, with a strong track record in mobile architecture, client/server integration, custom tooling, shaders, UI development, testing, and CI-driven delivery. Known for bridging product and engineering needs, mentoring teammates, and turning ideas into polished, scalable features with strong performance and user impact.
+- :computer: Hi, I'm Igor, a Senior Game/Mobile Engineer with 13+ years of experience building interactive apps, games, and internal tools across PC, Android, and iOS. Deep expertise in Unity, C#, and Java, with a strong track record in mobile architecture, client/server integration, custom tooling, shaders, UI development, testing, and CI-driven delivery. Known for bridging product and engineering needs, mentoring teammates, and turning ideas into polished, scalable features with strong performance and user impact.
   
 - LinkedIn: https://www.linkedin.com/in/igorhenriquesantos
 - Projects Shipped / Personal Projects: https://igorhosantos.github.io/
